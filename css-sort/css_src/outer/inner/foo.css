@@ -1,0 +1,7 @@
+.bar {
+  color: #fff;
+  margin: 0;
+  zoom: 1;
+  align-self: start;
+  display: flex;
+}

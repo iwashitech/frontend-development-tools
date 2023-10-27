@@ -1,0 +1,11 @@
+{
+  "name": "css-sort",
+  "scripts": {
+    "sort": "postcss css_src/**/*.css --base css_src --dir css --config postcss.config.js --no-map"
+  },
+  "devDependencies": {
+    "css-declaration-sorter": "^6.3.1",
+    "postcss": "^8.4.16",
+    "postcss-cli": "^10.0.0"
+  }
+}
